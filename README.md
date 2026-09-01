@@ -55,6 +55,8 @@ The framework classifies recurring visual AI failures using standardized codes:
 
 The AI successfully increased brightness while preserving the room layout and property details. Minor texture/smoothing artifacts were present but did not materially affect listing integrity.
 
+![T01 Pass Example](a_clean_infographic_slide_like_composite_screens.png)
+
 ### T04 — Remove Temporary Clutter
 
 **V1 Result:** Revise  
@@ -69,6 +71,8 @@ A targeted revision was requested.
 
 The revised output removed only the temporary clutter while preserving the original furniture, decor, geometry, lighting, and property details.
 
+![T04 Revise and Retest Example](a_clean_infographic_style_evaluation_report_image.png)
+
 ### T06 — Correct Perspective
 
 **Result:** Reject  
@@ -77,6 +81,8 @@ The revised output removed only the temporary clutter while preserving the origi
 **Severity:** High
 
 The perspective correction altered the apparent geometry and proportions of the property enough that the image could misrepresent the listing.
+
+![T06 Reject Example](a_clean_professional_infographic_style_image_on_a.png)
 
 ## Human Review Logic
 
