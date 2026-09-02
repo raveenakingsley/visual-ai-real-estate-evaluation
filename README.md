@@ -2,7 +2,7 @@
 
 A hands-on visual AI quality-evaluation project focused on assessing AI-edited real-estate images for accuracy, realism, structural integrity, listing integrity, and visual defects.
 
-![Visual AI Quality Evaluation Summary](Visual AI Quality Evaluation | Real Estate Image Editing.png)
+!![Visual AI Quality Evaluation Summary](visual_ai_real_estate_summary.png)
 
 ## Project Overview
 
